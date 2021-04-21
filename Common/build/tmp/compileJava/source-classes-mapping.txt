@@ -1,0 +1,87 @@
+Domain/Validator/OfficeValidator.java
+ Domain.Validator.OfficeValidator
+Observer/ServiceInterface.java
+ Observer.ServiceInterface
+networking/TicketBoughtRequest.java
+ networking.TicketBoughtRequest
+Interfaces/OfficeRepo.java
+ Interfaces.OfficeRepo
+networking/CloseRequest.java
+ networking.CloseRequest
+Domain/TransactionDTO.java
+ Domain.TransactionDTO
+networking/LoginResponse.java
+ networking.LoginResponse
+Interfaces/ArtistRepo.java
+ Interfaces.ArtistRepo
+networking/Response.java
+ networking.Response
+Domain/Office.java
+ Domain.Office
+Domain/Validator/ValidationException.java
+ Domain.Validator.ValidationException
+networking/LoginRequest.java
+ networking.LoginRequest
+Domain/Validator/ArtistValidator.java
+ Domain.Validator.ArtistValidator
+Domain/ShowAux.java
+ Domain.ShowAux
+networking/CloseResponse.java
+ networking.CloseResponse
+Domain/ShowDTO.java
+ Domain.ShowDTO
+Domain/Validator/ShowValidator.java
+ Domain.Validator.ShowValidator
+networking/ClientProxy.java
+ networking.ClientProxy
+ networking.ClientProxy$RThread
+networking/UpdateResp.java
+ networking.UpdateResp
+Domain/Artist.java
+ Domain.Artist
+Observer/ObserverInterface.java
+ Observer.ObserverInterface
+Domain/Validator/EmployeeValidator.java
+ Domain.Validator.EmployeeValidator
+Domain/Entity.java
+ Domain.Entity
+Domain/Transaction.java
+ Domain.Transaction
+networking/ReloadResponse.java
+ networking.ReloadResponse
+Interfaces/EmployeeRepo.java
+ Interfaces.EmployeeRepo
+Interfaces/TransactionRepo.java
+ Interfaces.TransactionRepo
+networking/GetAllShowsRespons.java
+ networking.GetAllShowsRespons
+networking/Request.java
+ networking.Request
+networking/Error.java
+ networking.Error
+Interfaces/Repository.java
+ Interfaces.Repository
+networking/GetFilteredShowsResponse.java
+ networking.GetFilteredShowsResponse
+networking/GetFilteredShowsRequest.java
+ networking.GetFilteredShowsRequest
+Domain/Validator/Validator.java
+ Domain.Validator.Validator
+networking/GetEmployeeByUserResponse.java
+ networking.GetEmployeeByUserResponse
+Interfaces/ShowRepo.java
+ Interfaces.ShowRepo
+networking/TicketBoughtResponse.java
+ networking.TicketBoughtResponse
+Observer/ObservableInterface.java
+ Observer.ObservableInterface
+Domain/Show.java
+ Domain.Show
+networking/GetAllShowsRequest.java
+ networking.GetAllShowsRequest
+Domain/Employee.java
+ Domain.Employee
+networking/GetEmployeeByUserRequest.java
+ networking.GetEmployeeByUserRequest
+networking/Worker.java
+ networking.Worker

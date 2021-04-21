@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="Controller.LoginController"
+            prefHeight="400.0" prefWidth="600.0">
+    <children>
+        <HBox alignment="CENTER" spacing="20.0" style="-fx-padding: 10" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" >
+            <children>
+                <VBox alignment="CENTER" spacing="20.0" style="-fx-padding: 10" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <children>
+                        <Label text="LOGIN" style="-fx-font-family: 'Comic Sans MS'; -fx-font-size: 40; -fx-font-weight: bold"/>
+                        <TextField fx:id="userField" promptText="Username"/>
+                        <PasswordField fx:id="passwordField" promptText="Password"/>
+                        <Button fx:id="loginButton" text="Login" onMouseClicked="#login"/>
+                    </children>
+                </VBox>
+            </children>
+        </HBox>
+    </children>
+</AnchorPane>
